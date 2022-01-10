@@ -1,0 +1,17 @@
+[Settings]
+Grid=1
+Suffix=_GLS
+
+[Hotkeys]
+CommanderAbility0=ForwardMouseButton
+CommanderAbility1=BackMouseButton
+HeroSelect0=Apostrophe
+TargetChoose=LeftMouseButton,ForwardMouseButton,BackMouseButton,A,B,C,D,E,F,Q,R,S,T,V,W,X,Y,Z
+WarpIn=Grave
+CommandButtonAlt04=
+CommandButtonAlt08=
+CommandButtonAlt09=
+CommandButton04=T,OEM102
+
+[Commands]
+
